@@ -4,6 +4,7 @@ This project is an end-to-end machine learning pipeline to predict house prices 
 
 ## Project Structure
 
+```
 house_price_prediction/
 │
 ├── data/
@@ -16,6 +17,8 @@ house_price_prediction/
 │
 ├── .gitignore
 ├── README.md
+
+```
 
 ## Steps Covered
 - Data Exploration
